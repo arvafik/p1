@@ -1,0 +1,47 @@
+Examen U1:
+
+Ejercicio 1. Crear app para convertir de grados centigrados a fahrenheit o viceversa, dependiendo la opción seleccionada. Una vez realizada la conversión se debe mostrar el resultado y una imagen dependiendo el siguiente rango de grados centigrados:
+De 10° a 25° templado.jpg
+Menos de 10° frio.jpg
+Mas de 25° caliente.jpg
+Fórmula: °F = (°C * 1.8) + 32
+
+Ejercicio 2. Crear app para calcular el indice de masa corporal (IMC). Se debe capturar la masa (en kilogramos) y la estatura (en metros) y al presionar un botón (Button) utilizar la formula: IMC = masa / (estatura * estatura). Una vez realizada la operación se debe mostrar el resultado y una imagen dependiendo la siguiente categoría del IMC:
+De 18.5 a 24.99 normal.jpg
+Menos de 18.5 delgadez.jpg
+De 25 a 29.99 sobrepeso.jpg
+Mayor o igual a 30 obesidad.jpg
+Fórmula: IMC = Peso (kg) / (altura (m) ^ 2)
+
+Que se evalúa?
+1. Se deben utilizar recursos string para todos los textos. 18pts
+2. Se debe utilizar el atributo hint para los widget de tipo EditText. 18pts
+3. Se debe utilizar un listener para ejecutar la operación, NO USAR atributo onClick. 18pts
+4. Se debe utilizar un TextView para mostrar el resultado. 10pts.
+5. Se debe utilizar un ImageView para mostrar la imagen correspondiente de manera adecuada. 18pts
+6. Se debe utilizar un CheckBox para mostrar u ocultar la imagen utilizando un listener, NO USAR atributo onClick. 18pts
+
+Ejercicio	Control	Alumno
+1	17100183	ANGUIANO LOPEZ JOSE LUIS
+2	17100186	ARMENTA SANCHEZ ANA KRISTELL
+1	17100187	ARRAZOLA BARRON ISAI ABDIEL
+2	16100180	CANTU VALLE JUVENTINO ANDRES
+1	17100212	GARCIA CORTES CARLOS ADOLFO
+2	17100218	GARZA SANCHEZ JUAN FELIPE
+1	17100221	GONZALEZ MENDOZA DANIEL EDUARDO
+2	17100226	GONZALEZ RODRIGUEZ FRANCISCO FERNANDO
+1	17100228	GONZALEZ TORRES KARLA
+2	17100229	GRAJEDA CASTELLANOS JESSICA JANET
+1	17100233	HERNANDEZ GARCIA JESUS BULMARO
+2	17100237	HERRERA SERRANO FELIPE JOAQUIN
+1	17100238	HUERTA MELCHOR CECILIA IVONNE
+2	17100246	MALTOS GONZALEZ LESLIE IRAIS
+1	17100252	MEDINA RODRIGUEZ MARTIN OSWALDO
+2	17100254	MENDEZ CRUZ MIGUEL ANGEL
+1	17100258	MONTES ROSALES RAUL CESAR
+2	17100261	MORALES RUEDA ALAN
+1	17100275	PUENTE SANCHEZ JORGE ALBERTO
+2	17100298	TENORIO RIOS JAIME SEBASTIAN
+1	17100307	VAZQUEZ CAMARILLO BRANDON
+2	17100309	VILLANUEVA RIVERA EMMANUEL
+1	17100313	ZEPEDA ARREDONDO ELISEO
