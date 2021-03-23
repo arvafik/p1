@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ExamenP1_17100229</string>
+    <string name="str_titulo">Calculadora de IMC</string>
+    <string name="str_estatura">Escriba aquí la estatura en metros</string>
+    <string name="str_masa">Escriba aquí la masa en kilos</string>
+    <string name="str_btncalc">Calcular</string>
+    <string name="str_resultado">El resultado es: </string>
+    <string name="str_checkbox">Mostrar imagen </string>
 </resources>
